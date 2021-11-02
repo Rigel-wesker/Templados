@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+}
+#formulario>h1{
+    text-align: center;
+}
+.form-label{
+    padding: 50px;
+    margin: 5px;
+}
+#submit>a{
+    text-align: right;
+}
